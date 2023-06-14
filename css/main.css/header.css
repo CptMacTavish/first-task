@@ -1,5 +1,6 @@
 body {
   color: #fff;
+
 }
 
 
@@ -20,19 +21,22 @@ body {
   max-width: 186px;
   position: absolute;
   bottom: -45%;
-  left: 35%;
+  left: 37%;
 }
 
 /* nav */
 
 .navig{
-  font-size: 14px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 15px;
 }
 
 .nav-link{
   color: #fff;
   text-decoration: none;
   padding-right: 41px;
+
 } 
 
 .navig :last-child {
