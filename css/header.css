@@ -6,6 +6,7 @@ body {
 
 .header { 
   padding: 51px 0 100px 0;
+  background-image: url("../../img/background-1.png");
 }
 
 .container {
@@ -20,7 +21,7 @@ body {
 .logo {
   max-width: 186px;
   position: absolute;
-  bottom: -45%;
+  bottom: -40%;
   left: 37%;
 }
 
@@ -51,4 +52,9 @@ body {
 
 .social :last-child{
   margin-right: 0;
+} 
+
+ .social__image {
+  width: 40px;
+  height: 40px;
 } 
